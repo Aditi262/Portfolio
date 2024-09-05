@@ -45,7 +45,7 @@ const About = () => {
                       modern Javascript libraries and frameworks 
                     </b>
                   </i>
-                   like
+                    like
                   <i>
                     <b className="yellow"> React.js</b>
                   </i>
