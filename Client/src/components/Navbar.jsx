@@ -81,7 +81,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="/Aditi_Yadav.pdf"  // Link to the resume file
+                href="https://drive.google.com/file/d/1vuCc-Arb3_Lw3AuCZkf7ffIsdpmjBF-m/view?usp=sharing"  // Link to the resume file
                 download="Aditi_Yadav.pdf"  // This will trigger the download with the specified name
                 onClick={() => updateExpanded(false)}
               >
