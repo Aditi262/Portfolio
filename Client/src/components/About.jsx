@@ -42,7 +42,7 @@ const About = () => {
                   <i>
                     <b className="yellow">
                       {" "}
-                      modern Javascript libraries and frameworks 
+                      modern Javascript libraries and frameworks ,
                     </b>
                   </i>
                     like
