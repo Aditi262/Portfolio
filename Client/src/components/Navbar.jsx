@@ -81,9 +81,12 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://drive.google.com/file/d/1vuCc-Arb3_Lw3AuCZkf7ffIsdpmjBF-m/view?usp=sharing"  // Link to the resume file
-                download="Aditi_Yadav.pdf"  // This will trigger the download with the specified name
+                as="a"
+                href="https://drive.google.com/file/d/1vuCc-Arb3_Lw3AuCZkf7ffIsdpmjBF-m/view?usp=sharing"
+                download="Aditi_Yadav.pdf"
                 onClick={() => updateExpanded(false)}
+                target="_blank"  // Opens link in a new tab
+                rel="noopener noreferrer"  // Security best practice when using target="_blank"
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
