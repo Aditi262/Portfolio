@@ -20,8 +20,8 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Aditi Yadav</span>
-                 and I'm from <span className="yellow">Mandleshwar MP</span>
+                 Hi, my name is <span className="yellow">Aditi Yadav </span>
+                 and I'm from <span className="yellow">Mandleshwar MP </span>
                 <br />
                 <br />
                 I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2023.
@@ -33,7 +33,7 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java
+                    as well as have knowledge in programming languages such as C, Java 
                   <b className="yellow"></b>
                   <br />
                   <br />
@@ -42,7 +42,7 @@ const About = () => {
                   <i>
                     <b className="yellow">
                       {" "}
-                      modern Javascript libraries and frameworks
+                      modern Javascript libraries and frameworks 
                     </b>
                   </i>
                    like
@@ -51,10 +51,10 @@ const About = () => {
                   </i>
                   <br />
                   <br />
-                  I am also interested in building new
+                  I am also interested in building new 
                   <i>
                     <b className="yellow"> Web Technologies and Products, </b>
-                    as well as exploring areas related to
+                    as well as exploring areas related to 
                     <b className="yellow"> Artificial Intelligence.</b>
                   </i>
                   <br />
